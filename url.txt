@@ -1,0 +1,15 @@
+Dashboard Analisis Data E-Commerce
+
+Dashboard ini dapat diakses melalui Streamlit Cloud (jika sudah di-deploy).
+
+Link Streamlit Cloud:
+Belum di-deploy ke Streamlit Cloud. Link akan ditambahkan setelah deployment.
+
+Cara Menjalankan Dashboard (Lokal):
+1. Buka terminal.
+2. Masuk ke folder utama submission.
+3. Jalankan perintah berikut:
+
+   python3 -m streamlit run dashboard/dashboard.py
+
+4. Tunggu hingga dashboard muncul di browser (biasanya di http://localhost:8501).
