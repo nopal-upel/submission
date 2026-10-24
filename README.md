@@ -150,4 +150,4 @@ Metode analisis mencakup:
 
 1. Mempertahankan pelanggan High Value melalui program loyalitas, diskon eksklusif, atau membership.
 2. Mengoptimalkan kategori produk dengan revenue tertinggi melalui promosi dan strategi pemasaran.
-3. Melakukan re-engagement kepada pelanggan Low Value melalui voucher, email marketing, atau promo khusus.
+3. Melakukan re-engagement kepada pelanggan Low Value melalui voucher, email marketing, atau promo khusus.# submission
